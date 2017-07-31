@@ -1,2 +1,2 @@
 # interactivePython
-Rice University Interactive Python Programmin Projects (Coursera)
+Rice University Interactive Python Programming Projects (Coursera)
